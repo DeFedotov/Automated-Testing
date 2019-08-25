@@ -1,1 +1,1 @@
-# Automated-Testing
+# AutomatedTesting
